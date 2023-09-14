@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "349828740970",
+    "project_id": "nocompose-8c07c",
+    "storage_bucket": "nocompose-8c07c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349828740970:android:1d60834cf486b293699713",
+        "android_client_info": {
+          "package_name": "com.example.nocompose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsEot83KBhL3gFWsmuuIy2ZlXlgw4fkb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
