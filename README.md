@@ -2,6 +2,7 @@
 App para me ajudar a organizar os itens que preciso comprar para casa, checkbox para dizer se já foi comprado ou não, quantidade de itens adquiridos nível para saber se todas checkboxes foram marcadas.
 
 Usando Firestore Database, MVVM, bibliotecas de animação como Lottie e de Toast como Grender.
+<br>
 ![image](https://github.com/IgorSouza4489/Itens_Casa/assets/63150786/cd7867d8-e2b2-4148-835e-7b7e7dc0a1a0)
 
 ![image](https://github.com/IgorSouza4489/Itens_Casa/assets/63150786/e47b77f4-d5bb-4eb3-9fed-28518dbc7c13)
